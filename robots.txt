@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://takayuki0701.github.io/fun-challenge-hp/sitemap.xml
