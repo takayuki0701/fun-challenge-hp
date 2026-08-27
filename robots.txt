@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://takayuki0701.github.io/fun-challenge-hp/sitemap.xml
+Sitemap: https://fun-challenge-hp.netlify.app/sitemap.xml
