@@ -1,0 +1,3 @@
+# Old Netlify subdomain -> official domain
+https://fun-challenge-hp.netlify.app/*  https://fun-challenge.co.jp/:splat  301!
+http://fun-challenge-hp.netlify.app/*   https://fun-challenge.co.jp/:splat  301!
